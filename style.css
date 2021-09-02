@@ -1,0 +1,15 @@
+.contacts {
+    background-color: darkslategray;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10em;
+}
+.contactpoint {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    color:lemonchiffon;
+    font-family: 'Hina Mincho', serif;
+    font-size: 1.3em;
+}
