@@ -1,5 +1,32 @@
+body {
+    background-color: #261C2C;
+    color:#eeeeee;
+    font-family: 'Hina Mincho', serif;
+    font-size: 1.3em;
+}
+
+a {
+    text-decoration: none;
+    color: #eeeeee;
+}
+
+h1 {
+    font-size: 5em;
+    font-family: 'Dancing Script', cursive;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
 .contacts {
-    background-color: darkslategray;
+    background-color: #3E2C41;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -9,7 +36,19 @@
 .contactpoint {
     margin-left: 3.5%;
     margin-right: 3.5%;
-    color:lemonchiffon;
-    font-family: 'Hina Mincho', serif;
-    font-size: 1.3em;
+    margin-bottom: auto;
+}
+
+.intro {
+    background-color: #5C527F;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius:5em;
+}
+
+.introitems {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: larger;
 }
