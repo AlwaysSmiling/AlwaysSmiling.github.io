@@ -103,6 +103,12 @@ li {
   border-radius: 5em;
 }
 
+.backpara {
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
+}
+
 .journey {
   background-color: #5c527f;
   width: 100%;
