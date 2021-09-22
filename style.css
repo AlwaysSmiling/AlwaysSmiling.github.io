@@ -52,3 +52,45 @@ li {
     text-align: center;
     font-size: larger;
 }
+
+.projects {
+    background-color: #5C527F;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5em;
+}
+
+.projectitems {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+.dreams {
+    background-color: #5C527F;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5em;
+}
+
+.dreamitems {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+.hobbies {
+    background-color: #5C527F;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5em;
+}
+
+.hobbyitems {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+}
