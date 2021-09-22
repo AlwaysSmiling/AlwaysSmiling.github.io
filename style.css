@@ -1,96 +1,118 @@
 body {
-    background-color: #261C2C;
-    color:#eeeeee;
-    font-family: 'Hina Mincho', serif;
-    font-size: 1.3em;
+  background-color: #261c2c;
+  color: #eeeeee;
+  font-family: "Hina Mincho", serif;
+  font-size: 1.3em;
 }
 
 a {
-    text-decoration: none;
-    color: #eeeeee;
+  text-decoration: none;
+  color: #eeeeee;
 }
 
 h1 {
-    font-size: 5em;
-    font-family: 'Dancing Script', cursive;
-    padding-bottom: 10px;
-    text-align: center;
+  font-size: 5em;
+  font-family: "Dancing Script", cursive;
+  padding-bottom: 10px;
+  text-align: center;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 li {
-    padding: 10px;
+  padding: 10px;
 }
 
 .contacts {
-    background-color: #3E2C41;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
-    border-radius: 10em;
+  background-color: #3e2c41;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-radius: 10em;
 }
 .contactpoint {
-    margin-left: 3.5%;
-    margin-right: 3.5%;
-    margin-bottom: auto;
+  margin-left: 3.5%;
+  margin-right: 3.5%;
+  margin-bottom: auto;
 }
 
 .intro {
-    background-color: #5C527F;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius:5em;
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
 }
 
 .introitems {
-    padding-bottom: 10px;
-    text-align: center;
-    font-size: larger;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
 }
 
 .projects {
-    background-color: #5C527F;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 5em;
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
 }
 
 .projectitems {
-    padding-bottom: 10px;
-    text-align: center;
-    font-size: larger;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
 }
 
 .dreams {
-    background-color: #5C527F;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 5em;
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
 }
 
 .dreamitems {
-    padding-bottom: 10px;
-    text-align: center;
-    font-size: larger;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
 }
 
 .hobbies {
-    background-color: #5C527F;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 5em;
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
 }
 
 .hobbyitems {
-    padding-bottom: 10px;
-    text-align: center;
-    font-size: larger;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
+}
+
+.back {
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
+}
+
+.journey {
+  background-color: #5c527f;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5em;
+}
+
+.journeyitems {
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: larger;
 }
