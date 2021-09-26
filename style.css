@@ -13,20 +13,15 @@ a {
 h1 {
   font-size: 5em;
   font-family: "Dancing Script", cursive;
-  padding-bottom: 10px;
   text-align: center;
-  position: relative;
-  z-index: auto;
 }
 
 ul {
   list-style-type: none;
-  position: relative;
 }
 
 li {
   padding: 10px;
-  position: relative;
 }
 
 .contacts {
@@ -58,6 +53,12 @@ li {
   padding-bottom: 10px;
   text-align: center;
   font-size: larger;
+}
+
+.parent {
+  width: 100%;
+  height: fit-content;
+  position: relative;
 }
 
 .blob {
