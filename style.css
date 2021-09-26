@@ -61,7 +61,7 @@ li {
   position: relative;
 }
 
-.blob {
+.blob-l {
   background-color: rgba(92, 82, 127, 0.8);
   width: 300px;
   height: 300px;
@@ -76,6 +76,40 @@ li {
   animation-iteration-count: infinite;
   animation-timing-function: ease;
   animation-direction: alternate;
+}
+.blob-d {
+  background-color: rgba(92, 82, 127, 0.5);
+  width: 320px;
+  height: 320px;
+  z-index: -3;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-left: -160px;
+  margin-top: -160px;
+  animation-name: blobby;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
+  animation-direction: alternate;
+  animation-delay: -1s;
+}
+.blob-ld {
+  background-color: rgba(92, 82, 127, 0.2);
+  width: 340px;
+  height: 340px;
+  z-index: -3;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-left: -170px;
+  margin-top: -170px;
+  animation-name: blobby;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
+  animation-direction: alternate;
+  animation-delay: -2s;
 }
 
 .waves {
